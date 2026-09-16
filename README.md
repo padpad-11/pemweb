@@ -32,5 +32,3 @@ Penggunaan elemen semantik HTML5 bertujuan agar struktur dokumen halaman web mem
 
 ## 3. Hasil Validasi
 Halaman HTML ini telah diuji menggunakan **W3C Markup Validation Service** dan dinyatakan memenuhi standar HTML5 (Lolos tanpa error/warning).
-
-*(Silakan lampirkan/upload gambar screenshot hasil validasi W3C kamu yang sudah hijau di sini)*
